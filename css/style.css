@@ -54,6 +54,30 @@
   margin:10px;
 }
 
+#Experience{
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+  align-items: center;
+}
+
+.experienceData{
+  text-align: center;
+}
+.experienceCard{
+  display:flex;
+  width:50%;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.date{
+  border:2px solid black;
+  border-radius:50%;
+  padding:5px 5px;
+}
+
+
 
 
 
