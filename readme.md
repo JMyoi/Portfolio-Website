@@ -1,3 +1,4 @@
+https://jaychenportfolio.netlify.app/
 # CSC 436 - Project 1: Interactive Personal Profile
 
 ## Project Outline
